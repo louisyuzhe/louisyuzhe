@@ -3,7 +3,7 @@
 😄 Portfolio Website: https://louisyuzhe.github.io/portfolio  
 👯 I’m looking to collaborate on Machine Learning, Deep Learning projects  
 💬 Ask me about job opportunity, project collaboration, explanation of my repo  
-📫 Reach me at ylim@hawk.iit.edu  
+📫 Reach me at ylim@hawk.iit.edu or https://www.linkedin.com/in/yuzhelim/
 <!--
 **louisyuzhe/louisyuzhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
